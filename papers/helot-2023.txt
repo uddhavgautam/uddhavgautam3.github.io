@@ -1,0 +1,9 @@
+@ARTICLE{9951382,
+  author={Akailvi, Syed and Gautam, Uddhav and Bhandari, Praveshika and Rashid, Hadi and Huff, Philip D. and Springer, Jan P.},
+  journal={IEEE Transactions on Smart Grid},
+  title={HELOT–Hunting Evil Life in Operational Technology},
+  year={2023},
+  volume={14},
+  number={4},
+  pages={3058-3071},
+  doi={10.1109/TSG.2022.3222261}}
