@@ -10,9 +10,14 @@ code {padding: 6px 8px; font-size: 90%;}
 </style>
 
 # Welcome!
+<br/>
 
-We are investigating new memory-safe computing abstractions within the kernel, with a goal to support complex (but safe) kernel abstractions and potentially evolving Linux itself towards memory safety.
 
+#### `$whoami`
+
+In our dedicated pursuit of advancing the Linux Kernel, our research revolves around exploring cutting-edge methodologies aimed at bolstering memory safety within the kernel landscape. At the forefront of our endeavors lies the development of robust memory-safe computing abstractions, meticulously engineered to underpin sophisticated and secure kernel functionalities. This intricate research initiative not only delves into the intricacies of kernel design but also endeavors to contribute to the broader paradigm shift within the Linux Kernel ecosystem.
+
+Our technical pursuits involve a nuanced investigation into memory-related vulnerabilities, propelling us to devise novel strategies and mechanisms that fortify the Linux Kernel against potential threats. By actively engaging with complex memory-safe computing paradigms, we aspire to usher in a new era of resilience and security for the Linux Kernel. Through these concerted efforts, we aim to support intricate kernel abstractions and play a pivotal role in shaping the trajectory of Linux towards a more memory-safe and secure future.
 <br/>
 
 <div class="row" style="text-align:center">
