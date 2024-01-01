@@ -7,12 +7,14 @@ permalink: /blogs/
 
 # Blogs
 
-<button class="collapsible">Using Jekyll to build your Static Github Website</button>
-<div class="content">
+<button class="collapsible1">Running Static Website Using Jekyll</button>
+<div class="content1">
 
-[Clone this GitHub repo](https://github.com/uddhavgautam3/uddhavgautam3.github.io) in your favorite IDE (e.g., Ruby Mine). 
-You can re-write all git histories.in your favorite IDE (e.g., Ruby Mine). You can re-write all git histories. 
-Create a github repo something like \<websitename\>.github.io. Then add your publish ssh-key, give read/write permissions, 
+[Clone this GitHub repo](https://github.com/uddhavgautam3/uddhavgautam3.github.io) in your favorite IDE (e.g., Ruby
+Mine).
+You can re-write all git histories.in your favorite IDE (e.g., Ruby Mine). You can re-write all git histories.
+Create a github repo something like \<websitename\>.github.io. Then add your publish ssh-key, give read/write
+permissions,
 and configure page publish in your github settings.
 
 In your local IDE (e.g., Ruby Mine),
@@ -27,17 +29,25 @@ Before pushing, you can test locally using below commands
 
 </div>
 
+
+<button class="collapsible2">
+  <a href="/blogs_pdfs/GentooInstallationInKVM.pdf" download>
+    Gentoo Linux Installation in KVM VM using genkernel
+  </a>
+</button>
+
+
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script>
   $(document).ready(function(){
-    $(".collapsible").click(function(){
-      $(".content").slideToggle();
+    $(".collapsible1").click(function(){
+      $(".content1").slideToggle();
     });
   });
 </script>
 
 <style>
-  .collapsible {
+.collapsible1{
     background-color: #302f2f;
     color: white;
     cursor: pointer;
@@ -49,13 +59,26 @@ Before pushing, you can test locally using below commands
     font-size: 15px;
   }
 
-  .content {
+  .collapsible2{
+    background-color: #302f2f;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+
+  .content1 {
     padding: 0 18px;
     display: none;
     overflow: hidden;
     color: black;
     background-color: #c4c4c4;
   }
+
 </style>
 
 
