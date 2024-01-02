@@ -21,7 +21,7 @@ Our technical pursuits involve a nuanced investigation into memory-related vulne
 <br/>
 
 <div class="row" style="text-align:center">
-  <img src="/images/logopic/linuxKernel.png" alt="Linux Kernel Image" style="width: 100%; height: 100%;">
+  <img src="/images/logopic/wallLinux.png" alt="Linux Kernel Image" style="width: 100%; height: 100%;">
 </div>
 
 <br/>
