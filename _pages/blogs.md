@@ -36,6 +36,12 @@ Before pushing, you can test locally using below commands
   </a>
 </button>
 
+<button class="collapsible3">
+  <a href="/blogs_pdfs/DummyLinuxKernelModule.pdf" download>
+    Creating a dummy Linux Kernel Module
+  </a>
+</button>
+
 
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script>
@@ -60,6 +66,18 @@ Before pushing, you can test locally using below commands
   }
 
   .collapsible2{
+    background-color: #302f2f;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+
+  .collapsible3{
     background-color: #302f2f;
     color: white;
     cursor: pointer;
